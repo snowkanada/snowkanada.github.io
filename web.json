@@ -5,8 +5,8 @@
   "search_engine": "https://www.google.co.id/search?q=",
   "favourites": [
     {
-      "key": ":fb",
-      "url": "http://facebook.com"
+      "key": ":mg",
+      "url": "http://messenger.com"
     },
     {
       "key": ":tt",
@@ -25,7 +25,7 @@
       "url": "http://github.com"
     },
     {
-      "key": ":ks",
+      "key": ":mg",
       "url": "http://kaskus.co.id"
     },
     {
