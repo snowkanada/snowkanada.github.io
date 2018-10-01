@@ -86,7 +86,7 @@ $(function () {
             link = "http://" + link;
         }
 
-        window.open(link, "_blank");
+        window.open(link, "_self");
         $("#box").blur();
         $("#box").val("");
         $("#cheatp").slideUp();

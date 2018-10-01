@@ -1,8 +1,8 @@
 {
-  "greeting_text": "Yeet！",
+  "greeting_text": "",
   "background": "#171928",
   "foreground": "#8ba0a7",
-  "search_engine": "https://www.google.co.id/search?q=",
+  "search_engine": "https://www.google.com.au/search?q=",
   "favourites": [
     {
       "key": ":mg",
